@@ -1,0 +1,202 @@
+{
+  "profile": {
+    "rol": "前端开发者",
+    "description": "我在信息技术领域拥有超过4年的经验，对新技术和持续学习有着特别的热情，特别是在网页开发和网络系统方面。我的目标是应用和扩展我的知识，以解决问题并为职业领域的成长做出贡献。此外，我受到分享我对网络技术的热情的激励，通过教授更新和易于理解的概念，帮助那些希望进入这个不断发展的领域的人。"
+  },
+  "experience": [
+    {
+      "title": "全栈开发者",
+      "dates": "2024年1月5日 - 2024年7月12日",
+      "company": "达川自动化设备（天津）有限公司",
+      "logo": "./assets/images/Dachuan.jpg",
+      "description": "我在一家专注于机械零件制造的公司担任全栈开发者。我的责任是开发一个全面的网络平台，允许客户访问公司提供的服务、下定制订单并进行在线支付。"
+    }
+  ],
+  "hobbies": {
+    "title": "爱好",
+    "description": "我对运动充满热情，特别是健身房，在那里我享受保持身体健康并超越自己的极限。此外，我偶尔会踢足球，这不仅让我能够锻炼身体，还能社交和团队合作。对我来说，运动是一种保持身心健康平衡的绝佳方式。此外，我对音乐的热爱也为我的日常生活提供了极大的灵感和动力。"
+  },
+  "experienceTime": "年经验",
+  "skills": [
+    {
+      "title": "前端开发",
+      "skills": [
+        {
+          "name": "HTML",
+          "experience": 90
+        },
+        {
+          "name": "CSS",
+          "experience": 80
+        },
+        {
+          "name": "JavaScript",
+          "experience": 80
+        },
+        {
+          "name": "React",
+          "experience": 70
+        }
+      ]
+    },
+    {
+      "title": "后端开发",
+      "skills": [
+        {
+          "name": "NodeJs",
+          "experience": 50
+        },
+        {
+          "name": "MySQL",
+          "experience": 50
+        },
+        {
+          "name": "ExpressJs",
+          "experience": 50
+        }
+      ]
+    },
+    {
+      "title": "其他",
+      "skills": [
+        {
+          "name": "Photoshop",
+          "experience": 50
+        },
+        {
+          "name": "TCP/IP",
+          "experience": 80
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "demo": "http://www.trantecx.cn",
+      "image": "./assets/images/dachuan.png",
+      "tags": ["TailwindCSS", "React", "NodeJs", "ExpressJs", "MySQL"],
+      "title": "川泰智能平台",
+      "description": "我为一家专注于制造机械零件的公司设计并开发了一个完整的网络平台。该项目包括使用Node.js创建服务器和使用React实现用户界面。该平台允许客户访问公司的服务，下定制订单，在线支付，并通过安全的登录系统管理他们的账户。"
+    },
+    {
+      "demo": "https://book-landing-phi.vercel.app/",
+      "portfolio": "https://github.com/EdondjiIbolo/Book-Landing",
+      "image": "./assets/images/boldo.webp",
+      "tags": ["Tailwind", "Vite", "React", "Responsive"],
+      "title": "Boldo - 免费的 Figma 登陆页面设计",
+      "description": "这是一个优雅、直观且视觉吸引力强的 Figma 登陆页面设计。它是一种简单的解决方案，可快速高效地创建登陆页面。此模板以其精致和清晰脱颖而出，非常适合提升任何类型的项目。"
+    },
+    {
+      "demo": "https://wondrous-taiyaki-fa65c0.netlify.app",
+      "portfolio": "https://github.com/EdondjiIbolo/moviesSerch",
+      "image": "./assets/images/movieSearch.jpg",
+      "tags": ["HTML", "CSS", "React", "Responsive"],
+      "title": "着陆页 || 作品集",
+      "description": "这是一个作品集展示，其中详细介绍了我的知识、爱好以及我在编程世界中的部分经验。借助许多老师的帮助和我的努力和奉献，我可以说我在Web开发领域得到了很好的培训。"
+    },
+    {
+      "demo": "https://edondjiibolo.github.io/web/",
+      "portfolio": "https://github.com/EdondjiIbolo/web.git",
+      "image": "./assets/images/desktop-preview.jpg",
+      "tags": ["HTML", "CSS", "JavaScript", "Responsive"],
+      "title": "着陆页 || 挑战 1",
+      "description": "这是一个着陆页，我设计并开发的目的是为了最大限度地提高转换率并改善用户体验。我确保设计是完全响应式的，能够适应任何设备，以保证流畅的导航。我实施了战略性行动呼吁和SEO优化，以提高搜索引擎中的可见性，并使用现代Web开发技术确保快速加载时间和最佳性能。"
+    },
+    {
+      "demo": "https://edondjiibolo.github.io/Bookmark-Landing",
+      "portfolio": "https://github.com/EdondjiIbolo/Bookmark-Landing",
+      "image": "assets/images/bookmark.jpg",
+      "tags": ["HTML", "CSS", "JavaScript", "Responsive"],
+      "title": "着陆页 || 挑战 2",
+      "description": "这是一个着陆页，我设计并开发的目的是为了最大限度地提高转换率并改善用户体验。我确保设计是完全响应式的，能够适应任何设备，以保证流畅的导航。我实施了战略性行动呼吁和SEO优化，以提高搜索引擎中的可见性，并使用现代Web开发技术确保快速加载时间和最佳性能。"
+    },
+    {
+      "demo": "https://edondjiibolo.github.io/product-preview-card/",
+      "portfolio": "https://github.com/EdondjiIbolo/product-preview-card",
+      "image": "./assets/images/card.jpg",
+      "tags": ["HTML", "CSS", "Responsive"],
+      "title": "产品预览卡组件",
+      "description": "这是一个产品预览卡组件的示例，由Frontendmentor提供，它提供项目以帮助程序员衡量他们在Web开发领域的技能。我花了一些时间完成，但这里是一个从头开始创建的完整示例。"
+    },
+    {
+      "demo": "https://edondjiibolo.github.io/Api-FLAGS/",
+      "portfolio": "https://github.com/EdondjiIbolo/Api-FLAGS",
+      "image": "./assets/images/flag.jpg",
+      "tags": ["HTML", "CSS", "Responsive", "JavaScript"],
+      "title": "带有主题切换器的国家API",
+      "description": "这是一个带有主题切换器的国家API示例，由Frontendmentor提供，它提供项目以帮助程序员衡量他们在Web开发领域的技能。我花了一些时间完成，但这里是一个从头开始创建的完整示例。"
+    },
+    {
+      "demo": "https://edondjiibolo.github.io/DiccionarioApi/",
+      "portfolio": "https://github.com/EdondjiIbolo/DiccionarioApi",
+      "image": "./assets/images/dictionary.webp",
+      "tags": ["HTML", "CSS", "Responsive", "JavaScript"],
+      "title": "带有主题切换器的词典Web应用程序",
+      "description": "这是一个带有主题切换器的词典Web应用程序的示例，由Frontendmentor提供，它提供项目以帮助程序员衡量他们在Web开发领域的技能。我花了一些时间完成，但这里是一个从头开始创建的完整示例。"
+    },
+    {
+      "demo": "https://edondjiibolo.github.io/first-web/",
+      "portfolio": "https://github.com/EdondjiIbolo/first-webi",
+      "image": "./assets/images/web-first.jpg",
+      "tags": ["HTML", "CSS", "Responsive", "JavaScript"],
+      "title": "新闻主页",
+      "description": "这是一个着陆页，我设计并开发的目的是为了最大限度地提高转换率并改善用户体验。我确保设计是完全响应式的，能够适应任何设备，以保证流畅的导航。我实施了战略性行动呼吁和SEO优化，以提高搜索引擎中的可见性，并使用现代Web开发技术确保快速加载时间和最佳性能。"
+    },
+    {
+      "demo": "https://edondjiibolo.github.io/Sunnyside-agency/",
+      "portfolio": "https://github.com/EdondjiIbolo/Sunnyside-agency",
+      "image": "./assets/images/sunny.jpg",
+      "tags": ["HTML", "CSS", "Responsive", "JavaScript"],
+      "title": "阳光着陆页",
+      "description": "这是一个着陆页，我设计并开发的目的是为了最大限度地提高转换率并改善用户体验。我确保设计是完全响应式的，能够适应任何设备，以保证流畅的导航。我实施了战略性行动呼吁和SEO优化，以提高搜索引擎中的可见性，并使用现代Web开发技术确保快速加载时间和最佳性能。"
+    },
+    {
+      "demo": "https://superlative-daifuku-2935c2.netlify.app/",
+      "portfolio": "https://github.com/EdondjiIbolo/tic-toc-toe",
+      "image": "./assets/images/tres-raya.webp",
+      "tags": ["React", "CSS"],
+      "title": "井字游戏",
+      "description": "这是经典井字游戏的一个版本，我设计并开发的目的是作为个人项目来提高我在JavaScript和Web开发方面的技能。我专注于创建一个简单且吸引人的用户界面，确保游戏在移动设备和桌面设备上都能直观且易于使用。我使用纯JavaScript实现了游戏逻辑，包括赢家检测和重新启动游戏的能力。这个项目使我深入了解事件驱动编程和状态管理，最终呈现了一个功能齐全且令人愉快的游戏，为用户提供了流畅且愉快的体验。"
+    },
+    {
+      "demo": "https://edondjiibolo.github.io/calculator-app/",
+      "portfolio": "https://github.com/EdondjiIbolo/calculator-app",
+      "image": "./assets/images/calculator.jpg",
+      "tags": ["HTML", "CSS", "Responsive", "JavaScript"],
+      "title": "计算器应用程序",
+      "description": "这是一个经典的计算器，我开发的目的是为了练习和加强我在JavaScript和DOM操作方面的技能。我专注于重现一个直观且熟悉的用户界面，类似于物理计算器，确保它在移动设备和桌面设备上都易于使用。我实现了加法、减法、乘法和除法等基本功能，并包括输入和顺序操作管理。这个项目使我增强了编程逻辑和DOM操作的理解，最终呈现了一个功能齐全且高效的计算器，精确地模拟了物理计算器的行为。"
+    },
+    {
+      "demo": "https://edondjiibolo.github.io/age-calculator-app/",
+      "portfolio": "https://github.com/EdondjiIbolo/age-calculator-app",
+      "image": "assets/images/age-calculator.jpg",
+      "tags": ["HTML", "CSS", "Responsive", "JavaScript"],
+      "title": "年龄计算器应用程序",
+      "description": "这是一个旨在提供任何事物或任何人的确切年龄的计算器示例。这是一个从头开始开发的应用程序。"
+    },
+    {
+      "demo": "https://edondjiibolo.github.io/Results-summary",
+      "portfolio": "https://github.com/EdondjiIbolo/Results-summary",
+      "image": "assets/images/sumary.jpg",
+      "tags": ["HTML", "CSS", "Responsive", "JavaScript"],
+      "title": "摘要应用程序",
+      "description": "这是一个具有计算各种结果平均值功能的应用程序。这是一个挑战，帮助我理解了许多概念，因为它在使设计响应式方面具有复杂性。"
+    },
+    {
+      "demo": "https://66c5ab5d9bc5290a0a190012--zippy-gumdrop-cdfb74.netlify.app/",
+      "portfolio": "https://github.com/EdondjiIbolo/Entertainment-web-app-FrontEnd-Mentor",
+      "image": "assets/images/movies-web.webp",
+      "tags": ["React", "TailwindCss", "响应式", "JavaScript"],
+      "title": "娱乐网页应用程序",
+      "description": "这个多页面的娱乐网页应用程序是一个综合平台，旨在为用户提供无缝且沉浸式的体验，帮助他们发现和管理自己喜爱的电影、电视剧和其他形式的娱乐内容。该项目涉及处理动态 JSON 数据集，以获取和展示庞大的内容库，包括每个标题的详细信息，如演员表、评分、简介等。"
+    },
+    {
+      "demo": "https://lustrous-tiramisu-c8f980.netlify.app/",
+      "portfolio": "https://github.com/EdondjiIbolo/pruebas-tecnicas-main",
+      "image": "./assets/images/prueba-tecnica.jpg",
+      "tags": ["HTML", "CSS", "Responsive", "React"],
+      "title": "技术测试",
+      "description": "这是由公司进行的技术测试，以评估前端开发人员的专业水平。它是一本带有过滤选项的图书馆应用程序，具有添加到阅读列表和浏览器标签同步的功能，包括图书页面过滤。"
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "profile": {
+    "rol": "Front-End Developer",
+    "description": "I have over 4 years of experience in the field of IT, with a particular passion for new technologies and continuous learning, especially in web development and network systems. My goal is to apply and expand my knowledge to solve problems and contribute to growth in the professional sphere. Additionally, I am motivated by the idea of sharing my passion for web technologies by teaching updated and accessible concepts to those who wish to enter this constantly evolving field."
+  },
+  "experience": [
+    {
+      "title": "Full-Stack Developer",
+      "dates": "January 5, 2024 - July 12, 2024",
+      "company": "Dachuan Automation Equipment (Tianjin) Co., Ltd",
+      "logo": "./assets/images/Dachuan.jpg",
+      "description": "I worked as a Full-Stack Developer at a company specializing in the manufacturing of mechanical parts. I was responsible for developing a comprehensive web platform that allowed clients to access the services offered by the company, place custom orders, and make online payments."
+    }
+  ],
+  "hobbies": {
+    "title": "Hobbies",
+    "description": "I am passionate about sports, especially the gym, where I enjoy staying fit and pushing my own limits. Additionally, I play soccer from time to time, which not only allows me to exercise but also to socialize and work as part of a team. For me, sports are an excellent way to maintain a balance between physical and mental well-being. This is complemented by my love for music, which I consider a great source of inspiration and motivation in my daily life."
+  },
+  "experienceTime": "Years of experience",
+  "skills": [
+    {
+      "title": "Front End",
+
+      "skills": [
+        {
+          "name": "HTML",
+          "experience": 90
+        },
+        {
+          "name": "CSS",
+          "experience": 80
+        },
+        {
+          "name": "JavaScript",
+          "experience": 80
+        },
+        {
+          "name": "React",
+          "experience": 70
+        }
+      ]
+    },
+    {
+      "title": "Back End",
+      "skills": [
+        {
+          "name": "NodeJs",
+          "experience": 50
+        },
+        {
+          "name": "MySQL",
+          "experience": 50
+        },
+        {
+          "name": "ExpressJs",
+          "experience": 50
+        }
+      ]
+    },
+    {
+      "title": "Others",
+      "skills": [
+        {
+          "name": "Photoshop",
+          "experience": 50
+        },
+        {
+          "name": "TCP/IP",
+          "experience": 80
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "demo": "http://www.trantecx.cn",
+      "image": "./assets/images/dachuan.png",
+      "tags": ["TailwindCSS", "React", "NodeJs", "ExpressJs", "MySQL"],
+      "title": "ChuanTai Intelligence Platform",
+      "description": "I designed and developed a complete web platform for a company dedicated to manufacturing mechanical parts. This project included the creation of a server using Node.js and the implementation of a user interface with React. The platform allowed customers to access the company's services, place custom orders, make online payments, and manage their accounts through a secure login system."
+    },
+    {
+      "demo": "https://book-landing-phi.vercel.app/",
+      "portfolio": "https://github.com/EdondjiIbolo/Book-Landing",
+      "image": "./assets/images/boldo.webp",
+      "tags": ["Tailwind", "Vite", "React", "Responsive"],
+      "title": "Boldo - Free Landing Page Design for Figma",
+      "description": "This is an elegant, intuitive, and visually appealing landing page design for Figma. A simple solution to quickly and efficiently create a landing page. This template stands out for its sophistication and clarity, making it ideal for enhancing any type of project."
+    },
+    {
+      "demo": "https://wondrous-taiyaki-fa65c0.netlify.app",
+      "portfolio": "https://github.com/EdondjiIbolo/moviesSerch",
+      "image": "./assets/images/movieSearch.jpg",
+      "tags": ["HTML", "CSS", "React", "Responsive"],
+      "title": "Landing page || Portfolio",
+      "description": "This is a portfolio presentation in which I detail my knowledge, hobbies, and part of my experience in the programming world. Thanks to the help of many teachers and my effort and dedication, I can say that I have been well-trained in the world of web development."
+    },
+    {
+      "demo": "https://edondjiibolo.github.io/web/",
+      "portfolio": "https://github.com/EdondjiIbolo/web.git",
+      "image": "./assets/images/desktop-preview.jpg",
+      "tags": ["HTML", "CSS", "JavaScript", "Responsive"],
+      "title": "Landing page || Challenge 1",
+      "description": "This is a landing page that I designed and developed with the goal of maximizing conversion and improving user experience. I ensured that the design was fully responsive, adapting to any device to guarantee smooth navigation. I implemented strategic calls to action and SEO optimization to improve visibility in search engines, and used modern web development techniques to ensure fast load times and optimal performance."
+    },
+    {
+      "demo": "https://edondjiibolo.github.io/Bookmark-Landing",
+      "portfolio": "https://github.com/EdondjiIbolo/Bookmark-Landing",
+      "image": "assets/images/bookmark.jpg",
+      "tags": ["HTML", "CSS", "JavaScript", "Responsive"],
+      "title": "Landing page || Challenge 2",
+      "description": "This is a landing page that I designed and developed with the goal of maximizing conversion and improving user experience. I ensured that the design was fully responsive, adapting to any device to guarantee smooth navigation. I implemented strategic calls to action and SEO optimization to improve visibility in search engines, and used modern web development techniques to ensure fast load times and optimal performance."
+    },
+    {
+      "demo": "https://edondjiibolo.github.io/product-preview-card/",
+      "portfolio": "https://github.com/EdondjiIbolo/product-preview-card",
+      "image": "./assets/images/card.jpg",
+      "tags": ["HTML", "CSS", "Responsive"],
+      "title": "Product preview card component",
+      "description": "This is an example of a Product preview card component, created thanks to Frontendmentor, which provides projects to help programmers measure their skills in the web development world. It took me some time to complete, but here is a fully created example from scratch."
+    },
+    {
+      "demo": "https://edondjiibolo.github.io/Api-FLAGS/",
+      "portfolio": "https://github.com/EdondjiIbolo/Api-FLAGS",
+      "image": "./assets/images/flag.jpg",
+      "tags": ["HTML", "CSS", "Responsive", "JavaScript"],
+      "title": "REST Countries API with color theme switcher",
+      "description": "This is an example of a REST Countries API with a color theme switcher, created thanks to Frontendmentor, which provides projects to help programmers measure their skills in the web development world. It took me some time to complete, but here is a fully created example from scratch."
+    },
+    {
+      "demo": "https://edondjiibolo.github.io/DiccionarioApi/",
+      "portfolio": "https://github.com/EdondjiIbolo/DiccionarioApi",
+      "image": "./assets/images/dictionary.webp",
+      "tags": ["HTML", "CSS", "Responsive", "JavaScript"],
+      "title": "Dictionary web app with color theme switcher",
+      "description": "This is an example of a Dictionary web app with a color theme switcher, created thanks to Frontendmentor, which provides projects to help programmers measure their skills in the web development world. It took me some time to complete, but here is a fully created example from scratch."
+    },
+    {
+      "demo": "https://edondjiibolo.github.io/first-web/",
+      "portfolio": "https://github.com/EdondjiIbolo/first-webi",
+      "image": "./assets/images/web-first.jpg",
+      "tags": ["HTML", "CSS", "Responsive", "JavaScript"],
+      "title": "News homepage",
+      "description": "This is a landing page that I designed and developed with the goal of maximizing conversion and improving user experience. I ensured that the design was fully responsive, adapting to any device to guarantee smooth navigation. I implemented strategic calls to action and SEO optimization to improve visibility in search engines, and used modern web development techniques to ensure fast load times and optimal performance."
+    },
+    {
+      "demo": "https://edondjiibolo.github.io/Sunnyside-agency/",
+      "portfolio": "https://github.com/EdondjiIbolo/Sunnyside-agency",
+      "image": "./assets/images/sunny.jpg",
+      "tags": ["HTML", "CSS", "Responsive", "JavaScript"],
+      "title": "Sunny Landing Page",
+      "description": "This is a landing page that I designed and developed with the goal of maximizing conversion and improving user experience. I ensured that the design was fully responsive, adapting to any device to guarantee smooth navigation. I implemented strategic calls to action and SEO optimization to improve visibility in search engines, and used modern web development techniques to ensure fast load times and optimal performance."
+    },
+    {
+      "demo": "https://superlative-daifuku-2935c2.netlify.app/",
+      "portfolio": "https://github.com/EdondjiIbolo/tic-toc-toe",
+      "image": "./assets/images/tres-raya.webp",
+      "tags": ["React", "CSS"],
+      "title": "Tic-Tac-Toe Game",
+      "description": "This is a version of the classic Tic-Tac-Toe game that I designed and developed as part of a personal project to improve my skills in JavaScript and web development. I focused on creating a simple and attractive user interface, ensuring that the game was intuitive and easy to play on both mobile and desktop devices. I implemented the game logic using pure JavaScript, including winner detection and the ability to restart the game. This project allowed me to deepen my understanding of event-driven programming and state management, resulting in a functional and enjoyable game that offers a smooth and pleasant user experience."
+    },
+    {
+      "demo": "https://edondjiibolo.github.io/calculator-app/",
+      "portfolio": "https://github.com/EdondjiIbolo/calculator-app",
+      "image": "./assets/images/calculator.jpg",
+      "tags": ["HTML", "CSS", "Responsive", "JavaScript"],
+      "title": "Calculator app",
+      "description": "This is a classic calculator that I developed to practice and strengthen my skills in JavaScript and DOM manipulation. I focused on recreating an intuitive and familiar user interface, similar to physical calculators, ensuring that it was easy to use on both mobile and desktop devices. I implemented basic functions such as addition, subtraction, multiplication, and division, along with input and sequential operation management. This project allowed me to enhance my understanding of programming logic and DOM manipulation, resulting in a functional calculator that emulates the behavior of a physical calculator precisely and efficiently."
+    },
+    {
+      "demo": "https://edondjiibolo.github.io/age-calculator-app/",
+      "portfolio": "https://github.com/EdondjiIbolo/age-calculator-app",
+      "image": "assets/images/age-calculator.jpg",
+      "tags": ["HTML", "CSS", "Responsive", "JavaScript"],
+      "title": "Age calculator app",
+      "description": "This is an example of a calculator that aims to provide the exact age of anything or anyone. It is an application developed from scratch."
+    },
+    {
+      "demo": "https://edondjiibolo.github.io/Results-summary",
+      "portfolio": "https://github.com/EdondjiIbolo/Results-summary",
+      "image": "assets/images/sumary.jpg",
+      "tags": ["HTML", "CSS", "Responsive", "JavaScript"],
+      "title": "Summary app",
+      "description": "This is an app with the functionality to calculate the average of various results. It was a challenge that helped me understand many concepts thanks to its complexity in making the design responsive."
+    },
+    {
+      "demo": "https://66c5ab5d9bc5290a0a190012--zippy-gumdrop-cdfb74.netlify.app/",
+      "portfolio": "https://github.com/EdondjiIbolo/Entertainment-web-app-FrontEnd-Mentor",
+      "image": "assets/images/movies-web.webp",
+      "tags": ["React", "TailwindCss", "Responsive", "JavaScript"],
+      "title": "Entertainment web app",
+      "description": "This multi-page entertainment web application is a comprehensive platform designed to provide users with a seamless and immersive experience for discovering and managing their favorite movies, TV shows, and other forms of entertainment. The project involves working with a dynamic set of JSON data to fetch and display a vast library of content, including detailed information about each title, such as cast, ratings, synopses, and more."
+    },
+    {
+      "demo": "https://lustrous-tiramisu-c8f980.netlify.app/",
+      "portfolio": "https://github.com/EdondjiIbolo/pruebas-tecnicas-main",
+      "image": "./assets/images/prueba-tecnica.jpg",
+      "tags": ["HTML", "CSS", "Responsive", "React"],
+      "title": "Technical Test",
+      "description": "This is a technical test conducted by a company to assess the professional level of a Front-End developer. It is a book library application with filtering options, adding to a reading list, and browser tab synchronization, including book page filtering."
+    }
+  ]
+}
